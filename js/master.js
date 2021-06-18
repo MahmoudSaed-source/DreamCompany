@@ -1,6 +1,6 @@
 let landding_image = document.querySelector(".landding-page");
-let img_src = ["/images/001.jpg", "/images/002.jfif", "/images/003.jpg", "/images/004.jpg"
-    , "/images/005.png", "/images/006.jpg"];
+let img_src = ["images/001.jpg", "images/002.jfif", "images/003.jpg", "images/004.jpg"
+    , "images/005.png", "images/006.jpg"];
 
 let icon_gear = document.querySelector(".icon");
 let setting_box = document.querySelector(".setting_box");
