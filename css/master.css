@@ -232,6 +232,12 @@ body {
   text-transform: capitalize;
   line-height: 20px;
 }
+@media (max-width: 576px) {
+  .header-area .logo {
+    padding: 7px;
+    font-size: 18px;
+  }
+}
 .header-area .logo span {
   color: var(--main--color);
 }
